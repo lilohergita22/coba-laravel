@@ -1,6 +1,7 @@
 <?php 
 
-echo "Hallo Lilo";
+echo "Hello World";
+echo "Lilo Hergita Yovie Pratama Putra";
 
 
 ?>
